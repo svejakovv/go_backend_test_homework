@@ -1,5 +1,6 @@
 package main
 
+//это чо
 import (
 	"fmt"
 )
